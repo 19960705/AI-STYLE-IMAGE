@@ -1,0 +1,5 @@
+{
+  "name": "AI Style Fusion Board",
+  "description": "An interactive canvas where you can fuse a subject image with a style image using AI. Upload your images, provide a prompt, and let the Gemini-powered model generate a unique artistic creation.",
+  "requestFramePermissions": []
+}
